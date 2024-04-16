@@ -3,20 +3,17 @@ title: Welcome to Quartz
 ---
 
  
-The rest of your content lives here. You can use **Markdown** here :)
+#### Welcome to the Repository!
 
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-
-[[R tidyverse]]
-[[R statistics]]
-
-
+#### Links:
+- [[R tidyverse]]
+- [[R statistics]]
+- [[R Rempsyc]]
+- [[R regression]]
 
 
 > [!Hint]+
->In this repository, you will find ....
+>In this repository, you will find information about xyz xyz
+>
 >
 
