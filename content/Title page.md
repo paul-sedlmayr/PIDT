@@ -1,5 +1,5 @@
 ---
-title: Digital games & STEM education
+title: Digital Games & STEM Education
 draft: false
 tags:
 ---
