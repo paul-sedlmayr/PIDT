@@ -1,11 +1,23 @@
 ---
-title: "Effects of digital game-based STEM education on students’ learning achievement: a meta-analysis"
+title: Digital games & STEM education
 draft: false
 tags:
 ---
 
-[Link](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00344-0)
+# Effects of digital game-based STEM education on students’ learning achievement: a meta-analysis
+ 
+Authors: [Liang-Hui Wang](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00344-0#auth-Liang_Hui-Wang-Aff1),  [Bing Chen](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00344-0#auth-Bing-Chen-Aff1), [Gwo-Jen Hwang](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00344-0#auth-Gwo_Jen-Hwang-Aff2), [Jue-Qi Guan](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00344-0#auth-Jue_Qi-Guan-Aff1) & [Yun-Qing Wang](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00344-0#auth-Yun_Qing-Wang-Aff1)
 
+[Link to Springer](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00344-0)
+
+| Overview         |
+| ---------------- |
+| [[Introduction]] |
+| [[Method]]       |
+| [[Results]]      |
+| [[Discussion]]   |
+| [[Limitations]]  |
+| [[References]]   |
 
 
 > [!Abstract]+
