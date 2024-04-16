@@ -1,4 +1,4 @@
-#Statistics , [[APA format]], [[R regression]], [[R plotting]]
+#Statistics , [[APA format]], [[R regression]], [[R plotting]], [[R statistics]]
 
 https://rempsyc.remi-theriault.com/
 

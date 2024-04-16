@@ -1,4 +1,4 @@
-[[R Programming]], [23 Model basics R4DS](https://r4ds.had.co.nz/model-basics.html#model-basics), [[Regression]]
+[[R Programming]], [23 Model basics R4DS](https://r4ds.had.co.nz/model-basics.html#model-basics), [[Regression]], [[R statistics]]
 
 ##### `lm( y ~ x, data = z)`
 

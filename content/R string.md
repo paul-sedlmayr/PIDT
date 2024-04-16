@@ -1,4 +1,4 @@
-[[R Programming]]
+[[R Programming]], [[R tidyverse]]
 
 See [[R string#Referencing characters|special characters]]
 
