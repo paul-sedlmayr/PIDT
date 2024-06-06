@@ -6,7 +6,6 @@ tags:
 
  This article is based on the meta-analysis by [[Wang et al. (2023)]].
 
-
 >Digital games can make complex topics more tangible 
 
 
@@ -20,10 +19,20 @@ tags:
 > [!question]- For Parents
 > zu
 
+>[!Danger]- For Game Designers
+> zyz
 
 
 
-## Examples
+## Individual Studies
+
+|     | xl et al. |
+| --- | --------- |
+|     |           |
+
+
+
+## Examples for Games
 
 | ![[scratch_icon.png]]           | **[Scratch](https://scratch.mit.edu)**                           |
 | ------------------------------- | ---------------------------------------------------------------- |
