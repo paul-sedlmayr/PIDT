@@ -1,11 +1,8 @@
 ---
-title: Digital Games & STEM Education
+title: Digital Games in STEM Education
 draft: false
 tags:
 ---
-
-# Digital Games in Stem Education
-
 
  
 
