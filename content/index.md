@@ -4,9 +4,8 @@ draft: false
 tags:
 ---
 
- 
+ This article is based on the meta-analysis by [[Wang et al. (2023)]].
 
-*the title, overview etc. need to be adapted*
 
 >Digital games can make complex topics more tangible 
 
