@@ -39,9 +39,11 @@ tags:
 
 #### Examples
 
-|                                      |      |
-| ------------------------------------ | ---- |
-| ![[Pasted image 20240606105552.png]] | Link |
+|                                      |                                                              |
+| ------------------------------------ | ------------------------------------------------------------ |
+| ![[Pasted image 20240606110329.png]] | [Scratch](https://scratch.mit.edu)                           |
+| ![[Pasted image 20240606110516.png]] | [Guess the correlation](https://www.guessthecorrelation.com) |
+|                                      |                                                              |
  
 #### References
 
