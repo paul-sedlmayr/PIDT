@@ -35,9 +35,12 @@ tags:
 > zu
 
 
+#### Examples
 
-
-
+|                                      |      |
+| ------------------------------------ | ---- |
+| ![[Pasted image 20240606105552.png]] | Link |
+ 
 #### References
 
 Wang, Liang-Hui, Bing Chen, Gwo-Jen Hwang, Jue-Qi Guan, and Yun-Qing Wang. “Effects of Digital Game-Based STEM Education on Students’ Learning Achievement: A Meta-Analysis.” _International Journal of STEM Education_ 9, no. 1 (December 2022): 26. [https://doi.org/10.1186/s40594-022-00344-0](https://doi.org/10.1186/s40594-022-00344-0).
