@@ -25,8 +25,10 @@ tags:
 
 
 
-> [!For Students]+ 
+> [!Note]+ For students
 > zx
+
+
 
 > [!hint]+ For Teachers
 > xyz
