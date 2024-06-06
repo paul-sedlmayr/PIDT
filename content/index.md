@@ -24,9 +24,9 @@ tags:
 
 #### Examples
 
-| ![[Pasted image 20240606122953.png]] | [Scratch](https://scratch.mit.edu)                           |
+| ![[scratch_icon.png]] | [Scratch](https://scratch.mit.edu)                           |
 | ------------------------------------ | ------------------------------------------------------------ |
-| ![[Pasted image 20240606123002.png]] | [Guess the correlation](https://www.guessthecorrelation.com) |
+| ![[guess_correlation_icon.png]] | [Guess the correlation](https://www.guessthecorrelation.com) |
 |                                      |                                                              |
  
 #### References
