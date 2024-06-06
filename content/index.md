@@ -4,20 +4,12 @@ draft: false
 tags:
 ---
 
-# Effects of digital game-based STEM education on students’ learning achievement: a meta-analysis
+# Digital Games in Stem Education
+
+
  
 
 *the title, overview etc. need to be adapted*
-
-| Overview         |
-| ---------------- |
-| [[Introduction]] |
-| [[Method]]       |
-| [[Results]]      |
-| [[Discussion]]   |
-| [[Limitations]]  |
-| [[References]]   |
-|                  |
 
 
 > [!Abstract]+
@@ -27,8 +19,6 @@ tags:
 
 > [!Note]+ For students
 > zx
-
-
 
 > [!hint]+ For Teachers
 > xyz
