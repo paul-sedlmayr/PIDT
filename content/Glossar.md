@@ -1,26 +1,17 @@
 
-# K12 or higher 
+# K12
 
-abcd
+*"Kindergraden to 12th grade"*
 
 ---
 
 # STEM
 
-cdef
+*"**S**cience **T**echnology **E**ngineering **M**athematics"*
 
 
 ---
 
-
-# Non-digital games
-
-cdef
-
-
----
-
-# Test
 
 
 

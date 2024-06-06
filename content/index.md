@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 
- This article is based on the meta-analysis by [[Wang et al. (2023)]].
+ This article examines Digital Games in [[Glossar#STEM|STEM]] education and is based on the meta-analysis by [[Wang et al. (2023)]].
 
 >Digital games can make complex topics more tangible 
 
