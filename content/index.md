@@ -17,6 +17,15 @@ tags:
 > - Finding 1
 
 
+### Introduction
+
+### What is the Study about?
+
+### Results
+
+### Our Rating of the Meta-Analysis
+
+###
 
 
 
@@ -29,27 +38,28 @@ tags:
 
 
 
-
-
-
+### Conclusion
 
 > [!Note]- For students
 > zx
 
-> [!hint]- For Teachers
+> [!success]- For Teachers
 > xyz
 
 > [!question]- For Parents
-> zu
+>> zu
 
 >[!Danger]- For Game Designers
-> STEM concepts are often complex and multi-dimensional. Improvements in gameplay design and game mechanisms improve student's motivation and thus, the construction of knowledge. 
+> >STEM concepts are often complex and multi-dimensional. Improvements in gameplay design and game mechanisms improve student's motivation and thus, the construction of knowledge. 
+
+>[!abstract]- For Reseachers
+>summary xy
 
 
 
 ## Examples of Individual Studies
 
-|                                           | Link                       |
+|                                           |                            |
 | ----------------------------------------- | -------------------------- |
 | ![[Pasted image 20240609163634.png\|200]] | [[Example study 2 et al.]] |
 | ![[Pasted image 20240609163634.png\|200]] | [[Example study 2 et al.]] |
@@ -58,11 +68,12 @@ tags:
 
 ## Examples for Games
 
-|                                 |                                                                  |
-| ------------------------------- | ---------------------------------------------------------------- |
-| ![[scratch_icon.png]]           | **[Scratch](https://scratch.mit.edu)**                           |
-| ![[guess_correlation_icon.png]] | **[Guess the correlation](https://www.guessthecorrelation.com)** |
- 
+|                                     |                                                                  |
+| ----------------------------------- | ---------------------------------------------------------------- |
+|  ![[scratch_icon.png\|50]]          | **[Scratch](https://scratch.mit.edu)**                           |
+| ![[guess_correlation_icon.png\|50]] | **[Guess the correlation](https://www.guessthecorrelation.com)** |
+
+
 ## References
 
 Wang, Liang-Hui, Bing Chen, Gwo-Jen Hwang, Jue-Qi Guan, and Yun-Qing Wang. “Effects of Digital Game-Based STEM Education on Students’ Learning Achievement: A Meta-Analysis.” _International Journal of STEM Education_ 9, no. 1 (December 2022): 26. [https://doi.org/10.1186/s40594-022-00344-0](https://doi.org/10.1186/s40594-022-00344-0).
