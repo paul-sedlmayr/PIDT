@@ -1,5 +1,5 @@
 ---
-title: Digital Games in STEM Education
+title: The Effectiveness of Digital Games in STEM Education
 draft: false
 tags:
 ---
@@ -9,8 +9,9 @@ tags:
 
 >Digital games can make complex topics more tangible 
 
-### [[Overview|]]
->[!Example] Overview of Meta-Analysis
+### Overview 
+
+>[!Example] Wang et al. (2023)
 > ##### Goal of the Study
 > Examine the effectiveness of Digital Games in [[Glossar#STEM|STEM]] education for [[Glossar#K12|K12]] students and higher education students 
 > ##### Main Finding
@@ -26,8 +27,9 @@ tags:
 ### Results
 
 
+### How we would rate this Meta-Analysis
 
->[!abstract]- How we would rate this Meta-Analysis
+>[!abstract]- Methods
 >test
 
 
@@ -69,7 +71,7 @@ tags:
 | ![[guess_correlation_icon.png\|50]] | **[Guess the correlation](https://www.guessthecorrelation.com)** |
 
 
-## References
+### References
 
 Wang, Liang-Hui, Bing Chen, Gwo-Jen Hwang, Jue-Qi Guan, and Yun-Qing Wang. “Effects of Digital Game-Based STEM Education on Students’ Learning Achievement: A Meta-Analysis.” _International Journal of STEM Education_ 9, no. 1 (December 2022): 26. [https://doi.org/10.1186/s40594-022-00344-0](https://doi.org/10.1186/s40594-022-00344-0).
 
