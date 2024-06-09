@@ -9,6 +9,7 @@ tags:
 
 >Digital games can make complex topics more tangible 
 
+### [[Overview|]]
 >[!Example] Overview of Meta-Analysis
 > ##### Goal of the Study
 > Examine the effectiveness of Digital Games in [[Glossar#STEM|STEM]] education for [[Glossar#K12|K12]] students and higher education students 
@@ -34,13 +35,13 @@ tags:
 
 
 
-## Examples of Individual Studies
+### Examples of Individual Studies
 
 |                                           |                            |
 | ----------------------------------------- | -------------------------- |
-| ![[Pasted image 20240609163634.png\|200]] | [[Example study 2 et al.]] |
-| ![[Pasted image 20240609163634.png\|200]] | [[Example study 2 et al.]] |
-| ![[Pasted image 20240609163634.png\|200]] | [[Example study 3 et al.]] |
+| ![[Pasted image 20240609163634.png\|150]] | [[Example study 2 et al.]] |
+| ![[Pasted image 20240609163634.png\|150]] | [[Example study 2 et al.]] |
+| ![[Pasted image 20240609163634.png\|150]] | [[Example study 3 et al.]] |
 
 ### Conclusion
 
@@ -60,7 +61,7 @@ tags:
 >summary xy
 
 
-## Examples for Games
+### Examples for Games
 
 |                                     |                                                                  |
 | ----------------------------------- | ---------------------------------------------------------------- |
