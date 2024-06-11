@@ -38,11 +38,11 @@ tags:
 
 ### Examples of Individual Studies
 
-|                                           |                                                        |
-| ----------------------------------------- | ------------------------------------------------------ |
-| ![[Pasted image 20240609163634.png\|150]] | [[Example study 2 et al.]]: examined using Scratch xyz |
-| ![[Pasted image 20240609163634.png\|150]] | [[Example study 2 et al.]]                             |
-| ![[Pasted image 20240609163634.png\|150]] | [[Example study 3 et al.]]                             |
+|                                           |                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Pasted image 20240609163634.png\|150]] | [[Example study 2 et al.]]: n compared with other instructional methods. Furthermore, the study explored multiple moderator variables and their potential impacts on learning outcomes such as control treatment, subject discipline, educational level, game type, gaming platform, and interventio |
+| ![[Pasted image 20240609163634.png\|150]] | [[Example study 2 et al.]]                                                                                                                                                                                                                                                                           |
+| ![[Pasted image 20240609163634.png\|150]] | [[Example study 3 et al.]]                                                                                                                                                                                                                                                                           |
 
 ### Conclusion
 
