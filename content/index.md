@@ -7,7 +7,6 @@ tags:
 
  Digital Games are making their way in to classrooms. Especially in the field of [[Glossar#STEM|STEM]], there is a high potential of making complex topics more tangible through Digital Games. However, it we need to examined, whether Digital Games are even more effective than traditional methods. In their meta-analysis, [[Wang et al. (2023)]] summarized the scientific findings regarding Digital Games in STEM education.
 
->Digital games can make complex topics more tangible 
 
 ### Overview 
 
@@ -27,7 +26,7 @@ tags:
 ### Results
 
 
-### How we would rate this Meta-Analysis
+### How we rate this Meta-Analysis
 
 >[!abstract]- Methods
 >test
@@ -54,16 +53,16 @@ tags:
 > xyz
 
 > [!question]- For Parents
->> zu
+> zu
 
 >[!Danger]- For Game Designers
-> >STEM concepts are often complex and multi-dimensional. Improvements in gameplay design and game mechanisms improve student's motivation and thus, the construction of knowledge. 
+> STEM concepts are often complex and multi-dimensional. Improvements in gameplay design and game mechanisms improve student's motivation and thus, the construction of knowledge. 
 
 >[!abstract]- For Reseachers
 >summary xy
 
 
-### Examples for Games
+### Examples of STEM-Games
 
 |                                     |                                                                  |
 | ----------------------------------- | ---------------------------------------------------------------- |
