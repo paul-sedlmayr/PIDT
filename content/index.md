@@ -26,7 +26,7 @@ tags:
 ### Results
 
 
-### How we rate this Meta-Analysis
+### Quality of Meta-Analysis
 
 >[!abstract]- Methods
 >test
@@ -38,11 +38,11 @@ tags:
 
 ### Examples of Individual Studies
 
-|                                           |                            |
-| ----------------------------------------- | -------------------------- |
-| ![[Pasted image 20240609163634.png\|150]] | [[Example study 2 et al.]] |
-| ![[Pasted image 20240609163634.png\|150]] | [[Example study 2 et al.]] |
-| ![[Pasted image 20240609163634.png\|150]] | [[Example study 3 et al.]] |
+|                                           |                                                        |
+| ----------------------------------------- | ------------------------------------------------------ |
+| ![[Pasted image 20240609163634.png\|150]] | [[Example study 2 et al.]]: examined using Scratch xyz |
+| ![[Pasted image 20240609163634.png\|150]] | [[Example study 2 et al.]]                             |
+| ![[Pasted image 20240609163634.png\|150]] | [[Example study 3 et al.]]                             |
 
 ### Conclusion
 
