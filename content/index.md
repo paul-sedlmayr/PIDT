@@ -14,7 +14,7 @@ tags:
 > ##### Goal of the Study
 > Examine the effectiveness of Digital Games in [[Glossar#STEM|STEM]] education for [[Glossar#K12|K12]] students and higher education students 
 > ##### Main Finding
-> Overall, **Digital Games have a [[Effect sizes#(ES = 0.667, 95% CI [0.520–0.814], p < 0.001) for Digital Games vs. other Instructional Methods|moderate overall effect size]] in promoting learning achievement**, compared to other instructional methods. This suggests that Digital Games are a suitable educational method.
+> Overall, **Digital Games have a [[Effect sizes#Moderate effect size for Digital Games vs. other Instructional Methods|moderate overall effect size]] in promoting learning achievement**, compared to other instructional methods. This suggests that Digital Games are a suitable educational method.
 > ##### Other Findings
 > - Finding 1
 
