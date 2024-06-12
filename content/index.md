@@ -14,7 +14,7 @@ tags:
 > ##### Goal of the Study
 > Examine the effectiveness of Digital Games in [[Glossar#STEM|STEM]] education for [[Glossar#K12|K12]] students and higher education students 
 > ##### Main Finding
-> Overall, **Digital Games have a [[Effect sizes#Moderate effect size for Digital Games vs. other Instructional Methods|moderate overall effect size]] in promoting learning achievement**, compared to other instructional methods. This suggests that Digital Games are a suitable educational method.
+> **Digital Games have a [[Effect sizes#Moderate effect size for Digital Games vs. other Instructional Methods|moderate overall effect size]] in promoting learning achievement**, compared to other instructional methods. This suggests that Digital Games are a suitable educational method.
 > ##### Other Findings
 > - Finding 1
 
@@ -38,11 +38,12 @@ tags:
 
 ### Examples of Individual Studies
 
-|                                           |                                                                                                                                                                                                                                                                                                      |
-| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[Pasted image 20240609163634.png\|150]] | [[Example study 2 et al.]]: n compared with other instructional methods. Furthermore, the study explored multiple moderator variables and their potential impacts on learning outcomes such as control treatment, subject discipline, educational level, game type, gaming platform, and interventio |
-| ![[Pasted image 20240609163634.png\|150]] | [[Example study 2 et al.]]                                                                                                                                                                                                                                                                           |
-| ![[Pasted image 20240609163634.png\|150]] | [[Example study 3 et al.]]                                                                                                                                                                                                                                                                           |
+|                                           |                                                                                                                                                                                               |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Pasted image 20240609163634.png\|150]] | [[example study 1 et al.]]                                                                                                                                                                    |
+| ![[scratch_icon.png\|80]]                 | [[Learning Programming in Scratch]]: Researchers investigated how Scratch, a graphical programming language, can improve the process of learning programming in university students. |
+| ![[Pasted image 20240609163634.png\|150]] | [[Example study 3 et al.]]                                                                                                                                                                    |
+
 
 ### Conclusion
 

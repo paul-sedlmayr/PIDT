@@ -12,16 +12,6 @@
 | **Moderate** | 0.5 |
 | **Large**    | 0.8 |
 
->[!quote] Effect Size (Cohen)
->Interpretation of effect sizes:
->
-| Effect Sizes | $d$ |
-| ------------ | --- |
-| **Low**      | 0.2 |
-| **Moderate** | 0.5 |
-| **Large**    | 0.8 |
- 
-
 
 
 
