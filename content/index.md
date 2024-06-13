@@ -12,14 +12,15 @@ tags:
 
 >[!Example] Wang et al. (2023)
 > ##### Goal of the Study
-> Examine the effectiveness of Digital Games in [[Glossar#STEM|STEM]] education for [[Glossar#K12|K12]] students and higher education students 
+> Examine the effectiveness of Digital Games in [[STEM]] education for [[K12]] students and higher education students. 
 > ##### Main Finding
-> **Digital Games have a [[Effect sizes#Moderate effect size for Digital Games vs. other Instructional Methods|moderate overall effect size]] in promoting learning achievement**, compared to other instructional methods. This suggests that Digital Games are a suitable educational method.
+> **[[Game types#Digital vs. Non-Digital Games|Digital Games]] have a [[Effect sizes#Moderate effect size for Digital Games vs. other Instructional Methods|moderate overall effect size]] in promoting learning achievement**, compared to other instructional methods. This suggests that Digital Games are a suitable educational method.
 > ##### Other Findings
 > - Finding 1
 
 
 ### Introduction
+
 
 ### What is the Study about?
 
@@ -52,15 +53,26 @@ tags:
 
 > [!success]- For Teachers
 > xyz
+> - Intervention duration: Using Digital Games for short time periods (< 1 week) is linked to the highest effects. However, this does not mean that digital games should only be used for short time periods. The excitement around the novelty of a digital game might fade over time. Yet, digital games still improve learning achievements over longer time periods (weeks to months).      
+> - Platform: In general, computers as well as mobile devices can be suitable platforms for educational games. The appropriate platform can be chosen depending on availability, students' learning goals and students' characteristics
 
 > [!question]- For Parents
-> zu
+> zub
 
 >[!Danger]- For Game Designers
-> STEM concepts are often complex and multi-dimensional. Improvements in gameplay design and game mechanisms improve student's motivation and thus, the construction of knowledge. 
+> - Gameplay design: STEM concepts are often complex and multi-dimensional. Improvements in gameplay design and game mechanisms improve student's motivation and thus, the construction of knowledge. Integrating various information resources and emerging technologies should help to improve the sense of immersion. 
+> - Plattform: In general, computers as well as mobile devices are effective platforms for educational games. Yet, extending from computers to mobile devices is suggested to increase availability. 
+> - Players' characteristics like educational level or personality should be considered in game design to meet individual preferences.
+
 
 >[!abstract]- For Reseachers
->summary xy
+>- Gameplay desgin: [[Wang et al. (2023)]] call for improved gameplay design and game mechanisms to improve usability and thus, learning motivation.   
+>- Effects of different game types should be further examined. Especially for (digital) board games, there is little research, yet promising results.
+>- Learners' characteristics (educational level, inter-individual differences) should be further considered. 
+>- Future research should examine the interplay of digital games with other technologies to increase immersion. This should increase learning motivation and learning experiences.
+>
+
+
 
 
 ### Examples of STEM-Games

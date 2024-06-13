@@ -1,19 +1,13 @@
 
-# K12
-
-*"Kindergraden to 12th grade"*
+![[K12]]
 
 ---
 
-# STEM
-
-*"**S**cience **T**echnology **E**ngineering **M**athematics"*
-
+![[STEM]]
 
 ---
 
-
-
+![[Game types]]
 
 
 
