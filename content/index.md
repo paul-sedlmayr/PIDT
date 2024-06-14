@@ -6,7 +6,7 @@ tags:
 
 
  Digital Games are making their way in to classrooms. Especially in the field of [[STEM#"Science Technology Engineering Mathematics"|STEM]]
- |STEM]], there is a high potential of making complex topics more tangible through Digital Games. However, it we need to examined, whether Digital Games are even more effective than traditional methods. In their meta-analysis, [[Wang et al. (2023)|Wang and colleagues]] summarized the scientific findings regarding Digital Games in STEM education.
+, there is a high potential of making complex topics more tangible through Digital Games. However, it we need to examined, whether Digital Games are even more effective than traditional methods. In their meta-analysis, [[Wang et al. (2023)|Wang and colleagues]] summarized the scientific findings regarding Digital Games in STEM education.
 
 
 ### Overview 
