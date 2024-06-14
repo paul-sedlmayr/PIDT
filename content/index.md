@@ -5,14 +5,15 @@ tags:
 ---
 
 
- Digital Games are making their way in to classrooms. Especially in the field of [[STEM#_"Science Technology Engineering Mathematics"_|STEM]], there is a high potential of making complex topics more tangible through Digital Games. However, it we need to examined, whether Digital Games are even more effective than traditional methods. In their meta-analysis, [[Wang et al. (2023)|Wang and colleagues]] summarized the scientific findings regarding Digital Games in STEM education.
+ Digital Games are making their way in to classrooms. Especially in the field of [[STEM#"Science Technology Engineering Mathematics"|STEM]]
+ |STEM]], there is a high potential of making complex topics more tangible through Digital Games. However, it we need to examined, whether Digital Games are even more effective than traditional methods. In their meta-analysis, [[Wang et al. (2023)|Wang and colleagues]] summarized the scientific findings regarding Digital Games in STEM education.
 
 
 ### Overview 
 
 >[!Example] Wang et al. (2023)
 > ##### Goal of the Study
-> Examine the effectiveness of Digital Games in [[STEM#"Science Technology Engineering Mathematics"|STEM]] education for [[K12#*"Kindergraden to 12th grade"*|K12]] students and higher education students. 
+> Examine the effectiveness of Digital Games in [[STEM#"Science Technology Engineering Mathematics"|STEM]] education for [[K12#"Kindergraden to 12th grade"|K12]] students and higher education students. 
 > ##### Main Finding
 > **[[Game types#Digital vs. Non-Digital Games|Digital Games]] have a [[Effect sizes#Moderate effect size for Digital Games vs. other Instructional Methods|moderate overall effect size]] in promoting learning achievement**, compared to other instructional methods. This suggests that Digital Games are a suitable educational method.
 > ##### Other Findings
