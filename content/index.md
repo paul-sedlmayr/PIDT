@@ -15,9 +15,12 @@ tags:
 > ##### Goal of the Study
 > Examine the effectiveness of Digital Games in [[STEM#"Science Technology Engineering Mathematics"|STEM]] education for [[K12#"Kindergraden to 12th grade"|K12]] students and higher education students. 
 > ##### Main Finding
-> **[[Game types#Digital vs. Non-Digital Games|Digital Games]] have a [[Effect sizes#Moderate effect size for Digital Games vs. other Instructional Methods|moderate overall effect size]] in promoting learning achievement**, compared to other instructional methods. This suggests that Digital Games are a suitable educational method.
+> **[[Game types#Digital Games|Digital Games]] have a [[Effect sizes#Moderate effect size for Digital Games vs. other Instructional Methods|moderate overall effect size]] in promoting learning achievement**, compared to other instructional methods. This suggests that Digital Games are a suitable educational method.
 > ##### Other Findings
-> - Finding 1
+> - Digital games are suitable for STEM education in different age groups. However, it shows the highest efficacy among younger students.
+> - 
+
+
 
 
 ### Introduction
@@ -58,7 +61,8 @@ tags:
 > - Platform: In general, computers as well as mobile devices can be suitable platforms for educational games. The appropriate platform can be chosen depending on availability, students' learning goals and students' characteristics
 
 > [!question]- For Parents
-> zub
+>- Especially students in primary education benefit a lot from learning with digital games. While learning with the assistance of digital games is beneficial across all age groups, there is a particularly [[Effect sizes#Large effect size for Digital Games in Primary education|large effect]] for students' in primary education. This is likely due to their high interest in using digital games to discover.
+
 
 >[!Danger]- For Game Designers
 > - Gameplay design: STEM concepts are often complex and multi-dimensional. Improvements in gameplay design and game mechanisms improve student's motivation and thus, the construction of knowledge. Integrating various information resources and emerging technologies should help to improve the sense of immersion. 
