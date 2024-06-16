@@ -3,11 +3,11 @@ import * as Component from "./quartz/components"
 import FeaturedLinks from './quartz/components/FeaturedLinks'
 
 // Link to your custom CSS file
-const customCSSLink = "<link rel='stylesheet' href='/path/to/custom.css'>";
+const customCSSLink = "<link rel='stylesheet' href='./quartz/styles/custom.css'>";
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
-  head: Component.Head(),
+  head: [Component.Head(), customCSSLink],
   header: [],
   footer: Component.Footer({
     links: {
