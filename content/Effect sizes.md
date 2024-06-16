@@ -58,7 +58,7 @@ $\eta^2_p = .08, F(2,182) = 8.08, p < .001$ 
 **Table**: Interpretation of eta squared ($\eta^2$) effect sizes according to convention (Cohen, 1988; Miles & Shevlin, 2001).
 
 ----
-### Statistical Figures for [[Learning Programming in Scratch]]
+### Statistical Figures for [[Learning Programming with Scratch]]
 
 
 #### Higher Academic Achievement in Introduction to Programming Course for Students with Scratch
