@@ -28,6 +28,27 @@ tags:
 
 ### What is the Study about?
 
+The meta-analysis by [[Wang et al. (2023)|Wang and colleagues]] included 33 studies with a total of 3894 subjects. The studies compare the use of  digital games in STEM education compared with other instructional methods to promote students learning achievements. The included studies focused on K-12 or higher education and were published between 2010 – 2020.
+
+>[!info]- Additional information
+>Furthermore the meta-analysis by [[Wang et al. (2023)|Wang and colleagues]] also takes into account the different variables of the studies that can impact the learning methods effectiveness on the learning achievement. The most common and therefore considered moderating variables were:
+> - Control treatment: traditional and multimedia
+> - Subject discipline: Science, Mathematics and Technology/Engineering
+> - Educational Level: Primary, Secondary and Higher Education
+> - Game Type: Immersive, Tutorial and Board Games
+> - Gaming Platform: Computers and Mobile devices
+> - Intervention duration: under 1 week, 1 week to 1 month, 1 month to 3 months and over 3 months
+
+>[!Question]- Research Questions
+>The key research questions that should be answered by the meta-analysis by [[Wang et al. (2023)|Wang and colleagues]] are as follows:
+>- What is the overall effect of digital game-based STEM education on students’ learning achievement?
+>- Are the learning gains higher when using digital games to support STEM education as compared to non-digital game-based methods?
+>- Does the subject discipline impact students’ learning achievement in digital game-based learning settings?
+>- Does the educational level infuence students’ learning achievement in digital game-based learning settings?
+>- Do the gameplay designs (game types or gaming platforms) afect student achievement in digital game based learning settings?
+>- Does the intervention duration impact students’ learning achievement in digital game-based learning settings?
+
+
 ### Results
 
 
@@ -39,15 +60,14 @@ tags:
 
 
 
-
-
 ### Examples of Individual Studies
 
-|                                           |                                                                                                                                                                                               |
-| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[Pasted image 20240609163634.png\|150]] | [[example study 1 et al.]]                                                                                                                                                                    |
-| ![[scratch_icon.png\|80]]                 | [[Learning Programming in Scratch]]: Researchers investigated how Scratch, a graphical programming language, can improve the process of learning programming in university students. |
-| ![[Pasted image 20240609163634.png\|150]] | [[Example study 3 et al.]]                                                                                                                                                                    |
+|                                           |                                                                                                                                                                                                         |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Pasted image 20240609163634.png\|150]] | [[example study 1 et al.]]                                                                                                                                                                              |
+| ![[scratch_icon.png\|80]]                 | [[Learning Programming in Scratch]]: Researchers investigated how Scratch, a graphical programming language, can improve the process of learning programming in university students.                    |
+| ![[Image_field_trip.png\|80]]             | [[Field Trip with Multistage Gaming]]: This study examined if a gaming approach with multistage guiding can enhance the learning performance and motivation on an elementary school science field trip. |
+
 
 
 ### Conclusion
