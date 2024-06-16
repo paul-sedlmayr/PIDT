@@ -1,5 +1,9 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import FeaturedLinks from './quartz/components/FeaturedLinks'
+
+// Link to your custom CSS file
+const customCSSLink = "<link rel='stylesheet' href='/path/to/custom.css'>";
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -34,6 +38,14 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.Graph(),
     
     // Component.Backlinks(),
+    FeaturedLinks({
+      links: [
+        { label: "GitHub", url: "https://github.com/jackyzha0/quartz" },
+        { label: "Discord Community", url: "https://discord.gg/cRFFHYye7t" },
+        { label: "Link", url: "https://scholars.duke.edu/publication/741732" },
+        // Add more links here
+      ]
+    }),
   ],
 }
 
@@ -47,5 +59,14 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [],
+  right: [
+    FeaturedLinks({
+      links: [
+        { label: "GitHub", url: "https://github.com/jackyzha0/quartz" },
+        { label: "Discord Community", url: "https://discord.gg/cRFFHYye7t" },
+        { label: "Link", url: "https://scholars.duke.edu/publication/741732" },
+        // Add more links here
+      ]
+    }),
+  ],
 }

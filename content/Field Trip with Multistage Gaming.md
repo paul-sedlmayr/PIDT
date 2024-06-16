@@ -14,7 +14,7 @@ This Study investigated if a gaming approach with multistage guiding can enhance
 ### Procedure
 
 >[!info]+ Study procedure
-![[Procedure_field_trip.png]]
+>![[Procedure_field_trip.png]]
 
 ### Abstract
 

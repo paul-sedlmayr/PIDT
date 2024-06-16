@@ -1,0 +1,28 @@
+.featured-links {
+    padding: 16px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .featured-links h3 {
+    margin-top: 0;
+  }
+  
+  .featured-links ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .featured-links li {
+    margin: 8px 0;
+  }
+  
+  .featured-links a {
+    color: #007acc;
+    text-decoration: none;
+  }
+  
+  .featured-links a:hover {
+    text-decoration: underline;
+  }
