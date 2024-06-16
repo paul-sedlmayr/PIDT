@@ -1,13 +1,13 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import FeaturedLinks from './quartz/components/FeaturedLinks'
+// import FeaturedLinks from './quartz/components/FeaturedLinks'
 
 // Link to your custom CSS file
-const customCSSLink = "<link rel='stylesheet' href='./quartz/styles/custom.css'>";
+// const customCSSLink = "<link rel='stylesheet' href='./quartz/styles/custom.css'>";
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
-  head: [Component.Head(), { css: '/path/to/custom.css' }],
+  head: Component.Head(),
   header: [],
   footer: Component.Footer({
     links: {
@@ -35,13 +35,6 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.TableOfContents(),
   ],
   right: [
-    FeaturedLinks({
-      links: [
-        { label: "GitHub", url: "https://github.com/jackyzha0/quartz" },
-        { label: "Discord Community", url: "https://discord.gg/cRFFHYye7t" },
-        { label: "Link", url: "https://scholars.duke.edu/publication/741732" },
-      ]
-    }),
   ],
 }
 
@@ -55,14 +48,5 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [
-    FeaturedLinks({
-      links: [
-        { label: "GitHub", url: "https://github.com/jackyzha0/quartz" },
-        { label: "Discord Community", url: "https://discord.gg/cRFFHYye7t" },
-        { label: "Link", url: "https://scholars.duke.edu/publication/741732" },
-        // Add more links here
-      ]
-    }),
-  ],
+  right: [],
 }
