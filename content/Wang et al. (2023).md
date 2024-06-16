@@ -5,11 +5,23 @@
 
 
 
+>[!Question]- Research Questions
+>The key research questions that should be answered by the meta-analysis by [[Wang et al. (2023)|Wang and colleagues]] are as follows:
+>- What is the overall effect of digital game-based STEM education on students’ learning achievement?
+>- Are the learning gains higher when using digital games to support STEM education as compared to non-digital game-based methods?
+>- Does the subject discipline impact students’ learning achievement in digital game-based learning settings?
+>- Does the educational level infuence students’ learning achievement in digital game-based learning settings?
+>- Do the gameplay designs (game types or gaming platforms) afect student achievement in digital game based learning settings?
+>- Does the intervention duration impact students’ learning achievement in digital game-based learning settings?
+
+
+
 ### Examples of Studies featured in this Meta-Analysis
 
-|                                           |                            |
-| ----------------------------------------- | -------------------------- |
-| ![[Pasted image 20240609163634.png\|150]] | [[Learning Programming in Scratch]] |
-| ![[Pasted image 20240609163634.png\|150]] | [[Learning Programming in Scratch]] |
-| ![[Pasted image 20240609163634.png\|150]] | [[Field Trip with Multistage Gaming]] |
+|                                     |                                                                                                                                                                                                                                   |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Study_arithmetic_image.png\|80]] | [[Tablet Game Intervention to Support Arithmetic Fluency]]: Van der Ven et al. investigated the impact of a tablet game intervention on the arithmetic fluency of 103 first graders, focusing on simple addition and subtraction. |
+| ![[scratch_icon.png\|80]]           | [[Learning Programming in Scratch]]: Researchers investigated how Scratch, a graphical programming language, can improve the process of learning programming in university students.                                              |
+| ![[Image_field_trip.png\|80]]       | [[Field Trip with Multistage Gaming]]: This study examined if a gaming approach with multistage guiding can enhance the learning performance and motivation on an elementary school science field trip.                           |
+
 
