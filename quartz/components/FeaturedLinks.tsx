@@ -14,7 +14,7 @@ const FeaturedLinks: React.FC<FeaturedLinksProps> = ({ links }) => {
     <div className="featured-links">
       <h3>Featured Links</h3>
       <ul>
-        {links.map((link, index) => (
+        {links.map((link: Link, index: number) => (
           <li key={index}>
             <a href={link.url} target="_blank" rel="noopener noreferrer">
               {link.label}

@@ -7,7 +7,7 @@ const customCSSLink = "<link rel='stylesheet' href='./quartz/styles/custom.css'>
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
-  head: [Component.Head(), customCSSLink],
+  head: [Component.Head(), { css: '/path/to/custom.css' }],
   header: [],
   footer: Component.Footer({
     links: {
@@ -35,15 +35,11 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.TableOfContents(),
   ],
   right: [
-    // Component.Graph(),
-    
-    // Component.Backlinks(),
     FeaturedLinks({
       links: [
         { label: "GitHub", url: "https://github.com/jackyzha0/quartz" },
         { label: "Discord Community", url: "https://discord.gg/cRFFHYye7t" },
         { label: "Link", url: "https://scholars.duke.edu/publication/741732" },
-        // Add more links here
       ]
     }),
   ],
