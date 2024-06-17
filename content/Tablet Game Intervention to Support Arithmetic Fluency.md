@@ -8,8 +8,10 @@ The intervention improved dot-subtraction efficiency, suggesting benefits in cal
 >##### Goal of the Study
 >Enhancing arithmetic fluency by promoting faster and more efficient calculation and retrieval of memorized answers.
 >##### Main Findings
->- Children found the game highly enjoyable, with [[Effect sizes#High Enjoyment of Digital Game|ratings]] close to the maximum score.
+>- Children found the game highly enjoyable, with ratings [[Effect sizes#High Enjoyment of Digital Game|close to the maximum score of 5]]
 >- The intervention [[Effect sizes#Improvement in Dot-Subtraction Efficiency through Digital Games|significantly improved]] dot-subtraction efficiency, suggesting benefits in calculation rather than retrieval speed or a shift from calculation to retrieval through memorization.
+>- For dot-addition, the intervention was [[Effect sizes#Non-significant Effect for Dot-addition|not significant]].
+>- The intervention did not have a [[Effect sizes#Non-significant Effect for Dot-addition|significant]] effect on Arabic-arithmetic efficiency.
 
 
 

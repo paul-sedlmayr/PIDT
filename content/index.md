@@ -16,8 +16,11 @@ tags:
 > ##### Main Finding
 > **[[Game types#Digital Games|Digital Games]] have a [[Effect sizes#Moderate effect size for Digital Games vs. other Instructional Methods|moderate overall effect size]] in promoting learning achievement**, compared to other instructional methods. This suggests that Digital Games are a suitable educational method.
 > ##### Other Findings
-> - Digital games are suitable for STEM education in different age groups. However, it shows the highest efficacy among younger students.
-> - 
+> - Higher Learning Gains for Digital Games in comparison to [[Effect sizes#Higher Learning Gains for Digital Games in comparison to Traditional Approaches|traditional approaches]] and [[Effect sizes#Higher Learning Gains for Digital Games in comparison to Multimedia Approaches|multimedia approaches]]
+> - Digital games are suitable for STEM education in different age groups (Primary education, Secondary education and Higher education). However, it shows the highest efficacy among [[Effect sizes#Large Effect of Digital Games for Students in Primary Education|younger students]].
+> - Computers as well as Mobile devices are [[Effect sizes#Computers and Mobile Devices are Both Well suited Platforms and have a Similar Effectivity|well suited]] platforms
+
+ 
 
 
 
@@ -50,11 +53,21 @@ The meta-analysis by [[Wang et al. (2023)|Wang and colleagues]] included 33 stud
 
 ### Results
 
+**Overall: Digital Games are an Effective Method in Education:**
+Digital Games lead to a higher Learning Achievement than traditional approaches and other multimedia approaches.
+- Large effect in comparison to other “multimedia approaches” (ES=0.85, p< .001)
+- Moderate effect in comparison to traditional approaches (ES=0.56, p< .001)
+
+**Education Level:** Especially young students in primary education benefit from Digital Games. This is likely due to their high motivation to use digital games. Yet, digital games are also an effective method in older age groups.
+
+**Subject Discipline:** Among the STEM disciplines, Science, Engineering / Technology and Mathematics, some of the disciplines were more represented than others. Therefore, a concluding statement can not be made. 
+
 
 ### Quality of Meta-Analysis
 
->[!abstract]- Methods
->test
+>[!abstract]- How We Rate this Meta-Analysis
+>![[Magic_icon.png]]
+
 
 
 

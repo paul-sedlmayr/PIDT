@@ -7,13 +7,13 @@
 $ES = 0.667, 95$%$-CI [0.520–0.814], p < 0.001)$ 
 
 
-| $ES$ / $d$ - Effect size | Interpretation |
+| $ES$ / $g$ - Effect size | Interpretation |
 | ------------------------ | -------------- |
 | $< 0.2$                  | Low            |
 | ~ $0.5$                  | Moderate       |
 | $> 0.8$                  | Large          |
 
-**Table**: Interpretation of effect sizes according to Cohen (1988)
+**Table**: Interpretation of effect sizes according to convention (Cohen, 1988)
 
 
 ---
@@ -22,13 +22,93 @@ $ES = 0.667, 95$%$-CI [0.520–0.814], p < 0.001)$
 $ES = 0.835, p < 0.001$ 
 
 
-| $ES$ / $d$ - Effect size | Interpretation |
+| $ES$ / $g$ - Effect size | Interpretation |
 | ------------------------ | -------------- |
 | $< 0.2$                  | Low            |
 | ~ $0.5$                  | Moderate       |
 | $> 0.8$                  | Large          |
 
-**Table**: Interpretation of effect sizes according to the convention (see Cohen, 1988).
+**Table**: Interpretation of effect sizes according to convention (see Cohen, 1988).
+
+---
+
+#### Higher Learning Gains for Digital Games in Comparison to Traditional Approaches
+$ES = 0.56, p < .001$
+
+
+
+| $ES$ / $g$ - Effect size | Interpretation |
+| ------------------------ | -------------- |
+| $< 0.2$                  | Low            |
+| ~ $0.5$                  | Moderate       |
+| $> 0.8$                  | Large          |
+
+**Table**: Interpretation of effect sizes according to convention (see Cohen, 1988).
+
+
+---
+
+#### Higher Learning Gains for Digital Games in comparison to Multimedia Approaches
+$ES = 0.85, p < .001$
+
+
+
+| $ES$ / $g$ - Effect size | Interpretation |
+| ------------------------ | -------------- |
+| $< 0.2$                  | Low            |
+| ~ $0.5$                  | Moderate       |
+| $> 0.8$                  | Large          |
+
+**Table**: Interpretation of effect sizes according to convention (see Cohen, 1988).
+
+
+---
+
+#### Large Effect of Digital Games for Students in Primary Education
+$ES = 0.84, p < .001$
+
+
+
+| $ES$ / $g$ - Effect size | Interpretation |
+| ------------------------ | -------------- |
+| $< 0.2$                  | Low            |
+| ~ $0.5$                  | Moderate       |
+| $> 0.8$                  | Large          |
+
+**Table**: Interpretation of effect sizes according to convention (see Cohen, 1988).
+
+
+---
+
+#### Computers and Mobile Devices are Both Well suited Platforms and have a Similar Effectivity
+$Q_b = 0.752, p = .386$
+
+Computers: $ES = 0.63, p < .001$ 
+Mobile devices: $ES= 0.77, p < .001$ 
+
+
+| $ES$ / $g$ - Effect size | Interpretation |
+| ------------------------ | -------------- |
+| $< 0.2$                  | Low            |
+| ~ $0.5$                  | Moderate       |
+| $> 0.8$                  | Large          |
+
+**Table**: Interpretation of effect sizes according to convention (see Cohen, 1988).
+
+
+---
+
+#### Large Effect for Short Intervention Duration
+$ES = 0.95, p < .001$
+
+
+| $ES$ / $g$ - Effect size | Interpretation |
+| ------------------------ | -------------- |
+| $< 0.2$                  | Low            |
+| ~ $0.5$                  | Moderate       |
+| $> 0.8$                  | Large          |
+
+**Table**: Interpretation of effect sizes according to convention (see Cohen, 1988).
 
 ---
 
@@ -42,8 +122,19 @@ First session: $M = 4.9, SD = 0.2$
 Last session: $M = 4.7, SD = 0.7$ 
 *(Maximum value of 5)*
 
+---
+
+#### Non-significant Effect for Dot-addition
+$p = .727$
+
 
 ---
+#### Non-significant Effect on Arabic-arithmetic Efficiency
+ $p = .365$
+
+
+
+----
 
 #### Improvement in Dot-Subtraction Efficiency through Digital Games
 $\eta^2_p = .08, F(2,182) = 8.08, p < .001$ 
