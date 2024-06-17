@@ -39,14 +39,133 @@ The study by Topalli and Cagiltay shows how implementing Scratch into introducto
 
 ### References
 
+##### Literature
+
 Topalli, Damla, and Nergiz Ercil Cagiltay. “Improving Programming Skills in Engineering Education through Problem-Based Game Projects with Scratch.” _Computers & Education_ 120 (May 2018): 64–74. [https://doi.org/10.1016/j.compedu.2018.01.011](https://doi.org/10.1016/j.compedu.2018.01.011).
 
 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0360131518300113)
 
----
+##### Scratch
 
 [The Scratch Foundation](https://www.scratchfoundation.org)
 
----
-
 [Scratch - Official Website](https://scratch.mit.edu)
+
+
+```C
+#include <SDL2/SDL.h>
+#include <SDL2/SDL_ttf.h>
+#include <SDL2/SDL_mixer.h>
+#include <stdio.h>
+#include <stdbool.h>
+#include <unistd.h> // For sleep function
+
+#define SCREEN_WIDTH 640
+#define SCREEN_HEIGHT 480
+
+// Function prototypes
+void displayMessage(SDL_Renderer *renderer, TTF_Font *font, const char *message, int duration);
+
+int main(int argc, char *args[]) {
+    SDL_Window *window = NULL;
+    SDL_Renderer *renderer = NULL;
+    TTF_Font *font = NULL;
+    Mix_Chunk *footsteps = NULL;
+
+    if (SDL_Init(SDL_INIT_VIDEO | SDL_INIT_AUDIO) < 0) {
+        printf("SDL could not initialize! SDL_Error: %s\n", SDL_GetError());
+        return -1;
+    }
+
+    if (TTF_Init() == -1) {
+        printf("TTF could not initialize! TTF_Error: %s\n", TTF_GetError());
+        return -1;
+    }
+
+    window = SDL_CreateWindow("Scratch to C", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, SCREEN_WIDTH, SCREEN_HEIGHT, SDL_WINDOW_SHOWN);
+    if (window == NULL) {
+        printf("Window could not be created! SDL_Error: %s\n", SDL_GetError());
+        return -1;
+    }
+
+    renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED);
+    if (renderer == NULL) {
+        printf("Renderer could not be created! SDL_Error: %s\n", SDL_GetError());
+        return -1;
+    }
+
+    font = TTF_OpenFont("path/to/font.ttf", 24);
+    if (font == NULL) {
+        printf("Failed to load font! TTF_Error: %s\n", TTT_GetError());
+        return -1;
+    }
+
+    if (Mix_OpenAudio(44100, MIX_DEFAULT_FORMAT, 2, 2048) < 0) {
+        printf("SDL_mixer could not initialize! Mix_Error: %s\n", Mix_GetError());
+        return -1;
+    }
+
+    footsteps = Mix_LoadWAV("path/to/footsteps.wav");
+    if (footsteps == NULL) {
+        printf("Failed to load footsteps sound effect! Mix_Error: %s\n", Mix_GetError());
+        return -1;
+    }
+
+    sleep(2);
+
+    // Show sprite (In SDL, this would mean render something on the screen)
+    SDL_SetRenderDrawColor(renderer, 255, 255, 255, 255);
+    SDL_RenderClear(renderer);
+    SDL_RenderPresent(renderer);
+
+    Mix_PlayChannel(-1, footsteps, 0);
+
+    // Glide to position (In SDL, this might involve some animation logic; here we just wait)
+    sleep(5);
+
+    displayMessage(renderer, font, "Ah! There you are!", 2);
+    displayMessage(renderer, font, "Where've you been?! You need to get digging! Collect some fossils!", 6);
+    displayMessage(renderer, font, "My museum will be the best in the world, or my name isn't Oliver Von Pibblesworth!", 5);
+
+    // Broadcast fade (in SDL this might trigger some visual effect)
+    sleep(1);
+
+    // Hide sprite (In SDL, this would mean not rendering it)
+    SDL_SetRenderDrawColor(renderer, 0, 0, 0, 255);
+    SDL_RenderClear(renderer);
+    SDL_RenderPresent(renderer);
+
+    // Switch backdrop to "Museum" (change the background color/image)
+    SDL_SetRenderDrawColor(renderer, 192, 192, 192, 255); // Example color
+    SDL_RenderClear(renderer);
+    SDL_RenderPresent(renderer);
+
+    // Clean up
+    Mix_FreeChunk(footsteps);
+    footsteps = NULL;
+    TTF_CloseFont(font);
+    font = NULL;
+    SDL_DestroyRenderer(renderer);
+    SDL_DestroyWindow(window);
+    Mix_Quit();
+    TTF_Quit();
+    SDL_Quit();
+
+    return 0;
+}
+
+void displayMessage(SDL_Renderer *renderer, TTF_Font *font, const char *message, int duration) {
+    SDL_Color textColor = {0, 0, 0, 255};
+    SDL_Surface *textSurface = TTF_RenderText_Solid(font, message, textColor);
+    SDL_Texture *textTexture = SDL_CreateTextureFromSurface(renderer, textSurface);
+
+    SDL_Rect renderQuad = {10, 10, textSurface->w, textSurface->h};
+    SDL_FreeSurface(textSurface);
+
+    SDL_RenderCopy(renderer, textTexture, NULL, &renderQuad);
+    SDL_RenderPresent(renderer);
+    SDL_DestroyTexture(textTexture);
+
+    sleep(duration);
+}
+```

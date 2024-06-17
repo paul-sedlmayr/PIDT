@@ -24,7 +24,6 @@ tags:
 
 
 
-
 ### Introduction
 
 
@@ -113,8 +112,8 @@ Digital Games lead to a higher Learning Achievement than traditional approaches 
 >- Future research should examine the interplay of digital games with other technologies to increase immersion. This should increase learning motivation and learning experiences.
 >
 
-
-
+ 
+ 
 
 
 ### Examples of STEM-Games
