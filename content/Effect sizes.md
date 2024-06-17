@@ -148,7 +148,9 @@ $\eta^2_p = .08, F(2,182) = 8.08, p < .001$ 
 
 **Table**: Interpretation of eta squared ($\eta^2$) effect sizes according to convention (Cohen, 1988; Miles & Shevlin, 2001).
 
+
 ----
+
 ### Statistical Figures for [[Learning Programming with Scratch]]
 
 
@@ -179,7 +181,17 @@ Scratch-Enriched Course: $M= 2.42, SD= 0.58$
 Traditional Course: $M=2.39, SD=0.53$
 
 
+
+---
+
+
 ### Statistical Figures for  [[Field Trip with Multistage Gaming]]
+
+
+
+
+----
+
 
 
 #### Increased Learning Achievement through Mobile Game
