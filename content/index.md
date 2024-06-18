@@ -52,8 +52,8 @@ The meta-analysis by [[Wang et al. (2023)|Wang and colleagues]] included 33 stud
 
 **Overall: Digital Games are an Effective Method in Education:**
 Digital Games lead to a higher Learning Achievement than traditional approaches and other multimedia approaches.
-- Large effect in comparison to other “multimedia approaches” (ES=0.85, p< .001)
-- Moderate effect in comparison to traditional approaches (ES=0.56, p< .001)
+- Large effect in comparison to other “multimedia approaches”
+- Moderate effect in comparison to traditional approaches
 
 **Education Level:** Especially young students in primary education benefit from Digital Games. This is likely due to their high motivation to use digital games. Yet, digital games are also an effective method in older age groups.
 
