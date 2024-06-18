@@ -24,8 +24,6 @@ tags:
 
 
 
-### Introduction
-
 
 ### What is the Study about?
 
