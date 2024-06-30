@@ -1,5 +1,5 @@
 
-In their study, Topalli and Cagiltay examined the question how implementing Scratch, a graphical programming language, can improve the process of learning programming in higher education (2018). Scratch is a graphical programming language, created at the Massachusetts Institute of Technology (MIT) to enable non-programmers to encounter the digital world. Millions of users share, including children, share their projects online.
+In their study, Topalli and Cagiltay examined the question how implementing Scratch, a graphical programming language, can improve the process of learning programming in higher education (2018). Scratch is a graphical programming language, created at the Massachusetts Institute of Technology (MIT) to enable non-programmers to encounter the digital world. Millions of users, including children, share their projects online.
 
 ### Overview
 
@@ -22,7 +22,7 @@ This suggests that graphical programming languages like Scratch are valuable too
 
 | Programming in Scratch                    | Programming in C                          |
 | ----------------------------------------- | ----------------------------------------- |
-| ![[Pasted image 20240616195040.png\|300]] | ![[Pasted image 20240616195341.png\|300]] |
+| ![[Pasted image 20240616195040.png\|400]] | ![[Pasted image 20240616195341.png\|400]] |
 
 
 ### Procedure
@@ -34,7 +34,7 @@ This suggests that graphical programming languages like Scratch are valuable too
 
 #### Conclusion
 
-The study by Topalli and Cagiltay shows how implementing Scratch into introductory programming courses can look like. Improvements in students' graduation projects in the senior year, years after the intervention took place, show how digital games like Scratch can assist students in learning programming. Scratch can assist individuals in being creative while gaining a broad understanding of algorithmic thinking, problem solving, and software design without having to focus on coding syntax.
+The study by Topalli and Cagiltay shows how implementing Scratch into introductory programming courses can look like. Improvements in students' graduation projects even years after the intervention took place, show how digital games like Scratch can assist students in learning programming. Scratch can assist individuals in being creative while gaining a broad understanding of algorithmic thinking, problem solving, and software design without having to focus on coding syntax.
 
 
 ### References

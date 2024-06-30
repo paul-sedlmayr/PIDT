@@ -112,6 +112,24 @@ $ES = 0.95, p < .001$
 
 ---
 
+#### Large Effect for Board Games
+$ES = 1.455, p < 0.001$
+
+
+| $ES$ / $g$ - Effect size | Interpretation |
+| ------------------------ | -------------- |
+| $< 0.2$                  | Low            |
+| ~ $0.5$                  | Moderate       |
+| $> 0.8$                  | Large          |
+
+**Table**: Interpretation of effect sizes according to convention (see Cohen, 1988).
+
+
+---
+
+
+
+
 ### Statistical Figures for [[Tablet Game Intervention to Support Arithmetic Fluency]]
 
 ---

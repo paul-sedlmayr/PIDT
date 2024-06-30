@@ -15,7 +15,6 @@ The intervention improved dot-subtraction efficiency, suggesting benefits in cal
 
 
 
-
 ### Procedure
 
 >[!info] Comparing Tablet Game Intervention with Regular Education
@@ -27,3 +26,8 @@ The intervention improved dot-subtraction efficiency, suggesting benefits in cal
 ### Conclusion
 
 The study by Van der Ven and colleagues highlights the advantages of digital games in providing direct feedback and enhancing engagement, though it notes limitations such as the lack of a non-digital game comparison group and uncertainties about the control group's additional activities.
+
+
+### References
+
+Van Der Ven, F., Segers, E., Takashima, A., & Verhoeven, L. (2017). Effects of a tablet game intervention on simple addition and subtraction fluency in first graders. _Computers in Human Behavior_, _72_, 200–207. [https://doi.org/10.1016/j.chb.2017.02.031](https://doi.org/10.1016/j.chb.2017.02.031)
