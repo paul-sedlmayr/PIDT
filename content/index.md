@@ -81,7 +81,7 @@ Digital Games lead to a higher Learning Achievement than traditional approaches 
 | ![[Study_arithmetic_image.png\|80]] | [[Tablet Game Intervention to Support Arithmetic Fluency]]: Van der Ven et al. investigated the impact of a tablet game intervention on the arithmetic fluency of 103 first graders, focusing on simple addition and subtraction. |
 | ![[scratch_icon.png\|80]]           | [[Learning Programming with Scratch]]: Researchers investigated how Scratch, a graphical programming language, can improve the process of learning programming in university students.                                            |
 | ![[botanic_icon.png\|80]]           | [[Field Trip with Multistage Gaming]]: This study examined if a gaming approach with multistage guiding can enhance the learning performance and motivation on an elementary school science field trip.                           |
-|                                     |                                                                                                                                                                                                                                   |
+
 
 
 ### Conclusion
@@ -89,10 +89,10 @@ Digital Games lead to a higher Learning Achievement than traditional approaches 
 > [!Note]- For students
 > Some subjects like Math, Science, and Engineering/Technology can be particularly challenging. Encountering complex concepts may sometimes be overwhelming and frustrating. However, digital games designed for educational purposes can turn this challenge into an enjoyable experience. The interactive nature of digital games can make learning more engaging and give students more individual freedom in how they want to encounter these topics. 
 >
->There are many digital games for STEM education. Click [[content/index#Examples of STEM-Games|here]] to see examples.
+>There are many digital games for STEM education. Click [[Examples of STEM Games|here]] to see examples.
 
 > [!success]- For Teachers
-> Digital games offer a great potential in STEM education. Research generally advocates using digital games in STEM education. Incorporating digital games into education benefits students' learning achievement. STEM concepts are often complex and difficult to grasp. While this may be a frustrating experience to students, digital games tend to keep the motivation high, improving how they learn these complex topics. It is especially noteworthy that students' learning can be at their own pace. A positive effect has shown for different age groups, but especially for students in primary education.
+> Digital games offer a gre[](Examples%20of%20STEM%20Games.md) Research generally advocates using digital games in STEM education. Incorporating digital games into education benefits students' learning achievement. STEM concepts are often complex and difficult to grasp. While this may be a frustrating experience to students, digital games tend to keep the motivation high, improving how they learn these complex topics. It is especially noteworthy that students' learning can be at their own pace. A positive effect has shown for different age groups, but especially for students in primary education.
 >
 >Using Digital Games for short time periods (< 1 week) is linked to the highest improvements. However, this does not mean that digital games should only be used for short time periods. While the excitement around the novelty of a digital game usually decreases over time, digital games still improve learning achievements over longer time periods (weeks to months). 
 >    
