@@ -12,10 +12,10 @@ This study conducted an experiment with 97 pupils aged 10-11 years. They were pr
 
 ### Procedure
 
->[!info] Study procedure
+>[!info]+ Study procedure
 >![[Procedure_field_trip.png]]
 
->[!bug] Game Structure
+>[!bug]+ Game Structure
 >
 >Students used tablet computers to interact through the game with their environment, identifying plants on their school campus. The game involved a map with tagged locations representing real-world learning targets. Students started with an initial score and threw dice to move on the map. At each location, they scanned a QR Code and answered multiple-choice questions or completed matching games about the plant's features. Correct answers increased their scores, and the top five scores were displayed.
 >
