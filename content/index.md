@@ -52,13 +52,19 @@ The meta-analysis by [[Wang et al. (2023)|Wang and colleagues]] included 33 stud
 
 **Overall: Digital Games are an Effective Method in Education:**
 Digital Games lead to a higher Learning Achievement than traditional approaches and other multimedia approaches.
-- Large effect in comparison to other “multimedia approaches”
-- Moderate effect in comparison to traditional approaches
+- [[Effect sizes#Higher Learning Gains for Digital Games in comparison to Multimedia Approaches|Large effect]] in comparison to other “multimedia approaches”
+- [[Effect sizes#Higher Learning Gains for Digital Games in Comparison to Traditional Approaches|Moderate effect]] in comparison to traditional approaches
 
-**Education Level:** Especially young students in primary education benefit from Digital Games. This is likely due to their high motivation to use digital games. Yet, digital games are also an effective method in older age groups.
+**Education Level:** Especially young students in primary education [[Effect sizes#Large Effect of Digital Games for Students in Primary Education|benefit]] from Digital Games. This is likely due to their high motivation to use digital games. Yet, digital games are also an effective method in older age groups.
 
-**Subject Discipline:** Among the STEM disciplines, Science, Engineering / Technology and Mathematics, some of the disciplines were more represented than others. Therefore, a concluding statement can not be made. 
+**Subject Discipline:** Among the STEM disciplines, Science, Engineering / Technology and Mathematics, some of the disciplines were more represented than others. Therefore, it is difficult to draw conclusions for the disciplines _Technology and Engineering_. 
 
+**Plattform**: There was [[Effect sizes#Computers and Mobile Devices are Both Well suited Platforms and have a Similar Effectivity|no difference]] between computers and mobile devices.
+
+**Intervention Duration:** [[Effect sizes#Large Effect for Short Intervention Duration|Higher effectiveness]] of short-term interventions.
+
+**Game Type**: [[Effect sizes#Large Effect for Board Games|Board games]] had the largest effect on learning achievement, however only few studies with board games were included.
+   
 
 ### Quality of Meta-Analysis
 
@@ -105,7 +111,7 @@ Digital Games lead to a higher Learning Achievement than traditional approaches 
 >[!abstract]- For Reseachers
 >The meta-analysis of [[Wang et al. (2023)]] shows a [[Effect sizes#Moderate effect size for Digital Games vs. other Instructional Methods|moderate effect size]] for digital games in STEM education. This effect was significant in comparison to other [[Effect sizes#Higher Learning Gains for Digital Games in comparison to Multimedia Approaches|multimedia appraoches]] as well as [[Effect sizes#Higher Learning Gains for Digital Games in Comparison to Traditional Approaches|traditional approaches]]. While a positive effect was found consistently across age groups, the effect was [[Effect sizes#Large effect size for Digital Games in Primary education|especially large]] for students in primary education. Short interventions were linked to a [[Effect sizes#Large Effect for Short Intervention Duration|higher effect]], likely showcasing that the positive effect of novelty decreases over time. Among game types, board games had the [[Effect sizes#Large Effect for Board Games|largest effect]]. It should be mentioned that only four studies on board games were included. Given the lack of literature for different STEM disciplines, it is hard to compare differences among STEM disciplines. 
 >
-The authors for call for improved gameplay design and game mechanisms to improve usability and thus, learning motivation. Furthermore, they emphasize the need to examine the following topics:
+>The authors for call for improved gameplay design and game mechanisms to improve usability and thus, learning motivation. Furthermore, they emphasize the need to examine the following topics:
 >- Effects of different game types need further examination. Especially for (digital) board games, there is little research, yet the results are promising so far.
 >- Learners' characteristics (educational level, inter-individual differences) should be further considered. 
 >- Future research should examine the interplay of digital games with other technologies to increase immersion. This should increase learning motivation and learning experiences.

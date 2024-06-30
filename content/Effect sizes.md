@@ -40,7 +40,6 @@ $ES = 0.56, p < .001$
 | $< 0.2$                  | Low            |
 | ~ $0.5$                  | Moderate       |
 | $> 0.8$                  | Large          |
-
 **Table**: Interpretation of effect sizes according to convention (see Cohen, 1988).
 
 
@@ -56,7 +55,6 @@ $ES = 0.85, p < .001$
 | $< 0.2$                  | Low            |
 | ~ $0.5$                  | Moderate       |
 | $> 0.8$                  | Large          |
-
 **Table**: Interpretation of effect sizes according to convention (see Cohen, 1988).
 
 
@@ -72,7 +70,6 @@ $ES = 0.84, p < .001$
 | $< 0.2$                  | Low            |
 | ~ $0.5$                  | Moderate       |
 | $> 0.8$                  | Large          |
-
 **Table**: Interpretation of effect sizes according to convention (see Cohen, 1988).
 
 
@@ -90,7 +87,6 @@ Mobile devices: $ES= 0.77, p < .001$
 | $< 0.2$                  | Low            |
 | ~ $0.5$                  | Moderate       |
 | $> 0.8$                  | Large          |
-
 **Table**: Interpretation of effect sizes according to convention (see Cohen, 1988).
 
 
@@ -105,7 +101,6 @@ $ES = 0.95, p < .001$
 | $< 0.2$                  | Low            |
 | ~ $0.5$                  | Moderate       |
 | $> 0.8$                  | Large          |
-
 **Table**: Interpretation of effect sizes according to convention (see Cohen, 1988).
 
 ---
@@ -119,7 +114,6 @@ $ES = 1.455, p < 0.001$
 | $< 0.2$                  | Low            |
 | ~ $0.5$                  | Moderate       |
 | $> 0.8$                  | Large          |
-
 **Table**: Interpretation of effect sizes according to convention (see Cohen, 1988).
 
 
@@ -161,7 +155,6 @@ $\eta^2_p = .08, F(2,182) = 8.08, p < .001$ 
 | ~ $0.01$               | Small effect   |
 | ~ $0.06$               | Medium effect  |
 | ~ $0.14$               | Large effect   |
-
 **Table**: Interpretation of eta squared ($\eta^2$) effect sizes according to convention (Cohen, 1988; Miles & Shevlin, 2001).
 
 
@@ -219,7 +212,6 @@ $\eta^2 = 0.15, F = 16.50,p < .001$
 | ~ $0.01$               | Small effect   |
 | ~ $0.06$               | Medium effect  |
 | ~ $0.14$               | Large effect   |
-
 **Table**: Interpretation of eta squared ($\eta^2$) effect sizes according to convention (Cohen, 1988; Miles & Shevlin, 2001).
 
 
@@ -234,7 +226,6 @@ $\eta^2 = 0.14, F = 14.37, p < .001$
 | ~ $0.01$               | Small effect   |
 | ~ $0.06$               | Medium effect  |
 | ~ $0.14$               | Large effect   |
-
 **Table**: Interpretation of eta squared ($\eta^2$) effect sizes according to convention (Cohen, 1988; Miles & Shevlin, 2001).
 
 ---
