@@ -68,7 +68,7 @@ Digital Games lead to a higher Learning Achievement than traditional approaches 
 
 ### Quality of Meta-Analysis
 
->[!abstract]- How We Rate this Meta-Analysis
+>[!abstract]+ How We Rate this Meta-Analysis
 >![[Magic_icon.png]]
 
 

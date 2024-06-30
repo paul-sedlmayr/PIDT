@@ -18,7 +18,6 @@ For one semester, an "Introduction to Programming"-course was supplemented with 
 This suggests that graphical programming languages like Scratch are valuable tools for learning programming. Especially beginners tend to be intimidated by traditional coding syntax. While Scratch should not be seen as an alternative to traditional scripting languages like Python or C, it is an example of how graphical programming languages are well suited for beginners' first projects. With Scratch, beginners can gain a broad understanding of algorithmic thinking, problem solving, and software design without having to focus on coding syntax.
 
 
-#### Scratch: Programming without Code 
 
 | Programming in Scratch                    | Programming in C                          |
 | ----------------------------------------- | ----------------------------------------- |
@@ -39,13 +38,12 @@ The study by Topalli and Cagiltay shows how implementing Scratch into introducto
 
 ### References
 
-##### Literature
+###### Literature
 
 Topalli, Damla, and Nergiz Ercil Cagiltay. “Improving Programming Skills in Engineering Education through Problem-Based Game Projects with Scratch.” _Computers & Education_ 120 (May 2018): 64–74. [https://doi.org/10.1016/j.compedu.2018.01.011](https://doi.org/10.1016/j.compedu.2018.01.011).
 
-[Link](https://www.sciencedirect.com/science/article/abs/pii/S0360131518300113)
 
-##### Scratch
+###### Scratch
 
 [The Scratch Foundation](https://www.scratchfoundation.org)
 
